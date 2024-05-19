@@ -21,3 +21,5 @@
 
 ```bash
 git clone https://github.com/yourusername/netlogo-virus-simulation.git
+```
+3. Откройте файл `Virus.nlogo` в NetLogo.
